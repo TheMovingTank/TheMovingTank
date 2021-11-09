@@ -6,4 +6,4 @@ I created ElectroParticles:
 
 ElectroParticles official support server:
 
-![Discord](https://discord.com/api/guilds/756397870839627787/widget.json)
+![Discord](https://discord.com/widget?id=756397870839627787&theme=dark)
