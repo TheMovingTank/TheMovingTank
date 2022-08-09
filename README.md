@@ -1,3 +1,3 @@
-I know Node.js
+I know Node.js.
 
-I'm learning Lua
+I am learning Lua.
